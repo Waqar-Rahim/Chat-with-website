@@ -71,7 +71,7 @@ def get_response(user_input, openai_api_key):
 
 # App Configuration
 st.set_page_config(page_title="Chat with Website", page_icon="🤖")
-st.title("Chat with Website")
+st.title("Chat with Website") 
 
 # Sidebar for settings
 with st.sidebar:
